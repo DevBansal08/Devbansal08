@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  I am a BTech CS student [UPES](https://www.upes.ac.in/) who aspires to be a Software Developer and bulid some cool stuff.</br>
- Intrested in Cyber Security and Web Development.</br>
+ Intrested in Cyber Security and AI Engineering.</br>
  I find writing and learning code pretty fun.
  ### I want to be a master on [CodeForces](https://codeforces.com/)
  
