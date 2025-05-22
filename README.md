@@ -15,10 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- I am a BTech CS student [UPES](https://www.upes.ac.in/) who aspires to be a Software Developer and bulid some cool stuff.</br>
- Intrested in Cyber Security and AI Engineering.</br>
- I find writing and learning code pretty fun.
- ### I want to be a master on [CodeForces](https://codeforces.com/)
- 
+ Hi there 👋
+I'm passionate about Data Science and Machine Learning.
+
+🌱 Currently exploring advanced ML techniques and real-world data problems
+
+🧠 Enthusiastic about building models that solve meaningful challenges
+
+🛠️ Working on projects involving Python, pandas, NumPy, and scikit-learn
+
+🎯 Goal: Become proficient in deploying end-to-end ML pipelines and land a top-tier ML internship
+
+### 📊 GitHub Stats
+
+![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevBansal08&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBansal08&layout=compact&theme=radical)
+
+
+<h3>🔗 Connect with me</h3>
+
+<a href="https://www.linkedin.com/in/devbansal08/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+</a>
+
+
+
 
 
