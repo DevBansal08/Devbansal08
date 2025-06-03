@@ -22,7 +22,7 @@ I'm passionate about Data Science and Machine Learning.
 
 🧠 Enthusiastic about building models that solve meaningful challenges
 
-🛠️ Working on projects involving Python, pandas, NumPy, and scikit-learn
+🛠️ Working on projects involving pytorch and scikit-learn
 
 🎯 Goal: Become proficient in deploying end-to-end ML pipelines and land a top-tier ML internship
 
