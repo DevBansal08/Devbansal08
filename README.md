@@ -22,5 +22,5 @@ Currently, I'm exploring advanced ML techniques and solving real-world data prob
 
 ### 🌐 Reach out to me here :
 - 📫 [Email](mailto:your-email@example.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/devbansal08/)  
 - 🌍 [Portfolio](https://sharpeye.vercel.app/)  
